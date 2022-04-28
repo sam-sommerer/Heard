@@ -13,3 +13,7 @@ Then go to the App Store/Google Play Store and download the SAP AppGyver Preview
 You can access the Airtable backend [here](https://airtable.com/invite/l?inviteId=invv0p7TfoclpBBcs&inviteToken=464dc8bb81aa646d23c06e858cc02584c72896fd76d4847b92f196a86daa774c&utm_source=email)
 
 The Airtable is populated with data from USC USG's Legislation Tracker Database (https://usg.usc.edu/branches/legislative/#tracker)
+
+## Other
+
+An Android build of the app can be found in `app-365230_android_standalone_build-215714/`.
